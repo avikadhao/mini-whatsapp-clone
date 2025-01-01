@@ -5,9 +5,7 @@ A simple chat application using Express.js, MongoDB, and EJS.
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Setup Instructions](#setup-instructions)
-- [Preview](#preview)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 - Create new chats
@@ -51,13 +49,3 @@ A simple chat application using Express.js, MongoDB, and EJS.
     npm start
     ```
 
-## Preview
-![Home Screen](assets/home.png)
-![Create Chat](assets/create-chat.png)
-![Edit Chat](assets/edit-chat.png)
-
-## Contributing
-Feel free to fork this project and submit pull requests.
-
-## License
-This project is licensed under the MIT License.
